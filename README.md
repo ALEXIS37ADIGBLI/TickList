@@ -22,7 +22,3 @@ Les contributions sont les bienvenues ! Si vous souhaitez apporter des idées 
 
 ## 🧑‍💻 Auteur
 Développé avec passion par **[ALEXIS37ADIGBLI](https://github.com/ALEXIS37ADIGBLI)**.
-
----
-
-Ajoute simplement ce contenu dans le fichier `README.md` de ton dépôt. Si tu as d'autres précisions à inclure ou si tu veux personnaliser encore plus, fais-le-moi savoir ! 🚀✨
